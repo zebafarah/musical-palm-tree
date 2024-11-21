@@ -3,3 +3,7 @@ git log
 git add
 git config --global
 git restore  
+git status
+git commit
+git branch 
+git checkout
