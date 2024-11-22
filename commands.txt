@@ -7,5 +7,3 @@ git status
 git commit
 git branch 
 git checkout
-These are the commands we used in our practice session.
-I am adding some more commands to see how it works.
